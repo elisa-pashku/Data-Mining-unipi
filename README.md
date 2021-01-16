@@ -1,4 +1,4 @@
-# Data-Mining-unipi
+# Data-Mining-UniPisa
 Data Mining A.A. 2020/21 University of Pisa
 
 DATASET: IBM HR Analytics Employee Attrition & Performance
